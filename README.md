@@ -1,8 +1,8 @@
-# 📝 React To-Do List -> https://fy8lvp.csb.app/
+# 📝 React To-Do List 
 
 A minimal and stylish to-do list app built with React. It lets users add and remove tasks in a simple, intuitive interface with fun handwritten-style fonts and sticky-note-inspired visuals.
 
-Built in codesandbox.
+Built in codesandbox.(codesandbox link - https://fy8lvp.csb.app/)
 
 ## 🚀 Features 
 
