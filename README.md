@@ -22,8 +22,8 @@ Built in codesandbox.(codesandbox link - https://fy8lvp.csb.app/)
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/react-todo-list.git
-cd react-todo-list
+git clone https://github.com/acodein/ToDoList.git
+cd ToDoList
 npm install
 
 🙌 Acknowledgments
