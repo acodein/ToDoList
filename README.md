@@ -1,6 +1,7 @@
 # ToDoList - A Small project in React.
 
-![ToDo App Screenshot](./screenshot.png)
+![Screenshot](./public/screenshot.png)
+
 
 ## Getting Started
 
